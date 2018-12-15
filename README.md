@@ -1,2 +1,2 @@
-# Life Note
+# LifeNote
 Primer Intento
